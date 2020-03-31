@@ -1,0 +1,24 @@
+git version
+git config
+git config --global user.name "Kerem Kula"
+git config --global user.email "keremkula@gmail.com"
+git config --global --list
+git clone https://github.com/keromotti/test-project.git
+ls
+cd test-project/
+ls -l
+git status
+history
+echo "Test Quick Start Demo" >> start.txt
+ls
+cat start.txt
+git status
+git add start.txt
+git status
+git commit -m
+git commit -m "start txt file added"
+git status
+git push
+git push
+git push origin master
+git pull
