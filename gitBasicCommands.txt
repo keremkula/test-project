@@ -22,3 +22,11 @@ git push
 git push
 git push origin master
 git pull
+
+~/ ta yapman lazım. https://stackoverflow.com/questions/8967843/how-do-i-create-a-bash-alias
+Type cd ~/ to go to your home folder
+Type touch .bash_profile to create your new file.
+notepad++ .bash_profile
+bash_prfile dosyasına alias npp='notepad++.exe -multiInst -nosession'
+git config --global core.editor "notepad++.exe -multiInst -nosession"
+
