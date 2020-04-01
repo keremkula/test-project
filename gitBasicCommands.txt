@@ -31,3 +31,9 @@ bash_prfile dosyasına alias npp='notepad++.exe -multiInst -nosession'
 git config --global core.editor "notepad++.exe -multiInst -nosession"
 
 git reset HEAD fileName
+
+
+git pull origin master
+git push origin master 
+
+
