@@ -1,4 +1,4 @@
-package com.tr.keromotti.newFeatures8;
+package com.tr.keromotti.newFeatures;
 
 public class FunctionalInterfaceTest {
 

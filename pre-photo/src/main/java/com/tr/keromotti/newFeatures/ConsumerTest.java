@@ -1,4 +1,4 @@
-package com.tr.keromotti.newFeatures8;
+package com.tr.keromotti.newFeatures;
 
 import java.util.function.Consumer;
 
