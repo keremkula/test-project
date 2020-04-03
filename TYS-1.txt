@@ -1,2 +1,0 @@
-TYS-1 maddesi tamamlandı. 
-ama TYS-3 branch inda degisiklik yapildi. 
