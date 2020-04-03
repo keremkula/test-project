@@ -1,0 +1,5 @@
+Git commits : kerem.kula <kerem.kula@aksigorta.com.tr>
+
+https://www.journaldev.com/1827/java-design-patterns-example-tutorial
+
+Java 1.8 de ki yenilikler icinde : Rahman Usta nin bir makalesi vardi.
