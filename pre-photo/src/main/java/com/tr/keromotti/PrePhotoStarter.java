@@ -13,8 +13,8 @@ public class PrePhotoStarter {
 
 	public static void main(String[] args) throws Exception {
 
-		String folderPath = "C:\\Users\\Kerem\\Desktop\\2020_02_13 ZeynepAlya";
-		String nefFolderPath = "C:\\Users\\Kerem\\Desktop\\2020_02_13 ZeynepAlya\\NEF";
+		String folderPath = "C:\\Users\\Kerem\\Desktop\\2019_02_23 Usak";
+		String nefFolderPath = "C:\\Users\\Kerem\\Desktop\\2019_02_23 Usak\\NEF";
 		List<File> jpgFilesOnFolder = listJpgFilesOnFolder(folderPath);
 
 		for (File jpgFile : jpgFilesOnFolder) {
